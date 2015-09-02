@@ -194,16 +194,6 @@
     
 }
 
-- (void)hereMsg {
-    
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"ROFL"
-                                                    message:@"Dee dee doo doo."
-                                                   delegate:self
-                                          cancelButtonTitle:@"OK"
-                                          otherButtonTitles:nil];
-    [alert show];
-}
-
 
 - (void)showLoadingIndicator {
     if (self.activityIndicator == nil) {
