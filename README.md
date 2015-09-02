@@ -18,11 +18,27 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 #Marmalade Usage
 * Clone this github repository
 * Include the subproject "peanutlabs" in your project's MKB file, for example:
+```
 subprojects
 {
     iwutil
     /path/to/this/repo/peanutlabs
 }
+```
+
 * Include the extension's header file in your source code
 * Call the method "openRewardsCenter" with the generated user id as a parameter:
-Example: openRewardsCenter("END_USER_ID-APPID-HASH");
+Example: 
+```openRewardsCenter("END_USER_ID-APPID-HASH");```
+
+
+#Compiling Against iOS 9
+
+You will need to add the following to your applications plist file in order for the system to work with iOS 9:
+```
+ <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+```
