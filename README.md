@@ -27,8 +27,7 @@ subprojects
 ```
 
 * Include the extension's header file in your source code
-* Call the method "openRewardsCenter" with the generated user id as a parameter:
-Example: 
+* Call the method "openRewardsCenter" with the generated user id as a parameter. Example: 
 ```openRewardsCenter("END_USER_ID-APPID-HASH");```
 
 
