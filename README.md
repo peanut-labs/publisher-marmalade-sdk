@@ -1,7 +1,10 @@
 
-# Peanut Labs Reward Center - Publisher Marmalde SDK
+# Peanut Labs Reward Center - Publisher Marmalde SDK (Beta)
 
 Peanut Labs connects your users with thousands of paid online surveys from big brands and market researchers. This SDK allows you to integrate our Reward Center within your Marmalade application for iOS. 
+
+This Marmalade extension only supports iPhone at the moment, we do plan on supporting Android in the near future.
+This is the first Beta release, if you run into any issues please use Github issues to report.
 
 #The Reward Center
 
