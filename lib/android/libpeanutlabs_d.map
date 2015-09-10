@@ -1,0 +1,800 @@
+Archive member included because of file (symbol)
+
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                              debug/peanutlabs_platform.os (IwDebugTraceIsChannelOn)
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                              debug/peanutlabs_platform.os (s3eEdkThreadRunOnOS)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                              /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o) (__aeabi_ldivmod)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__aeabi_unwind_cpp_pr0)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o) (restore_core_regs)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__divdi3)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__udivdi3)
+/Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                              /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .group         0x0000000000000000        0x8 debug/peanutlabs_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/peanutlabs_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/peanutlabs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/peanutlabs_register.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+LOAD debug/peanutlabs_platform.os
+LOAD debug/peanutlabs.os
+LOAD debug/peanutlabs_register.os
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/liblog.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi/libgnustl_static.a
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/libstdc++.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/libm.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/libdl.so
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a
+LOAD /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+                0x00000000000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00000000000000f4      0x28c
+ *(.hash)
+ .hash          0x00000000000000f4      0x28c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000000000000380      0x5e0
+ *(.dynsym)
+ .dynsym        0x0000000000000380      0x5e0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.dynstr         0x0000000000000960      0x63b
+ *(.dynstr)
+ .dynstr        0x0000000000000960      0x63b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version    0x0000000000000f9c        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_d  0x0000000000000f9c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_r  0x0000000000000f9c        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rel.dyn        0x0000000000000f9c       0x60
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000000000000f9c       0x50 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.iplt)
+ .rel.iplt      0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .rel.fini_array
+                0x0000000000000fec        0x8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .rel.init_array
+                0x0000000000000ff4        0x8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.iplt)
+
+.rel.plt        0x0000000000000ffc       0xf0
+ *(.rel.plt)
+ .rel.plt       0x0000000000000ffc       0xf0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt            0x00000000000010ec      0x17c
+ *(.plt)
+ .plt           0x00000000000010ec      0x17c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.iplt           0x0000000000001268        0x0
+ *(.iplt)
+ .iplt          0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.text           0x0000000000001268     0x375c
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x0000000000001268       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000001268                __on_dlclose
+ *(.text.startup .text.startup.*)
+ .text.startup._GLOBAL__sub_I_IwDebug.cpp
+                0x0000000000001278       0x88 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000001300       0x34 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000001300                __atexit_handler_wrapper
+                0x0000000000001314                atexit
+ .text          0x0000000000001334      0x458 debug/peanutlabs_platform.os
+                0x0000000000001438                peanutlabsInit_platform()
+                0x0000000000001680                peanutlabsTerminate_platform()
+                0x00000000000016c8                openRewardsCenter_platform(char const*)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x000000000000178c       0x38 debug/peanutlabs_platform.os
+                0x000000000000178c                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000000000017c4       0x30 debug/peanutlabs_platform.os
+                0x00000000000017c4                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00000000000017f4       0x28 debug/peanutlabs_platform.os
+                0x00000000000017f4                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x000000000000181c       0x28 debug/peanutlabs_platform.os
+                0x000000000000181c                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x0000000000001844       0x38 debug/peanutlabs_platform.os
+                0x0000000000001844                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x000000000000187c       0x30 debug/peanutlabs_platform.os
+                0x000000000000187c                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000000000018ac       0x30 debug/peanutlabs_platform.os
+                0x00000000000018ac                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000000000018dc       0x58 debug/peanutlabs_platform.os
+                0x00000000000018dc                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x0000000000001934       0x48 debug/peanutlabs_platform.os
+                0x0000000000001934                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x000000000000197c       0x58 debug/peanutlabs_platform.os
+                0x000000000000197c                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00000000000019d4       0x38 debug/peanutlabs_platform.os
+                0x00000000000019d4                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x0000000000001a0c       0x40 debug/peanutlabs_platform.os
+                0x0000000000001a0c                _JavaVM::GetEnv(void**, int)
+ .text          0x0000000000001a4c       0x44 debug/peanutlabs.os
+                0x0000000000001a4c                peanutlabsInit()
+                0x0000000000001a60                peanutlabsTerminate()
+                0x0000000000001a6c                openRewardsCenter
+ .text          0x0000000000001a90      0x130 debug/peanutlabs_register.os
+                0x0000000000001b30                peanutlabsRegisterExt()
+                0x0000000000001bb4                RegisterExt
+ .text          0x0000000000001bc0        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x0000000000001bc0       0x80 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000001bc0                IwDebugClearConfigCache
+ .text.IwDebugAssertIsChannelOn
+                0x0000000000001c40      0x1ec /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000001c40                IwDebugAssertIsChannelOn
+ .text.IwDebugAssertShow
+                0x0000000000001e2c      0x2e8 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000001e2c                IwDebugAssertShow
+ .text.IwDebugAssertSetSolution
+                0x0000000000002114       0xb4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000002114                IwDebugAssertSetSolution
+ .text.IwDebugAssertSetMessage
+                0x00000000000021c8       0xfc /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000021c8                IwDebugAssertSetMessage
+ .text.IwAssertRegisterTextCallback
+                0x00000000000022c4       0x1c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000022c4                IwAssertRegisterTextCallback
+ .text.IwAssertRegisterCallback
+                0x00000000000022e0       0x1c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000022e0                IwAssertRegisterCallback
+ .text.IwDebugTraceDisable
+                0x00000000000022fc       0x10 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000022fc                IwDebugTraceDisable
+ .text.IwDebugTraceIsChannelOn
+                0x000000000000230c      0x27c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x000000000000230c                IwDebugTraceIsChannelOn
+ .text.IwDebugTraceSetTraceChannel
+                0x0000000000002588       0x1c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000002588                IwDebugTraceSetTraceChannel
+ .text.IwDebugTraceChannelSwitch
+                0x00000000000025a4      0x1e4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000025a4                IwDebugTraceChannelSwitch
+ .text.IwDebugTraceLineVPrintf
+                0x0000000000002788       0xfc /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000002788                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x0000000000002884       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000002884                IwDebugTraceLinePrintf
+ .text.IwDebugErrorRegisterCallback
+                0x00000000000028b4       0x1c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000028b4                IwDebugErrorRegisterCallback
+ .text.IwDebugErrorShow
+                0x00000000000028d0      0x108 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000028d0                IwDebugErrorShow
+ .text.IwDebugAssertSetUID
+                0x00000000000029d8       0x14 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000029d8                IwDebugAssertSetUID
+ .text          0x00000000000029ec        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000000029ec       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00000000000029ec                s3eEdkErrorSetString
+ .text.s3eEdkThreadRunOnOS
+                0x0000000000002a1c       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x0000000000002a1c                s3eEdkThreadRunOnOS
+ .text.s3eEdkThreadRunOnOSAsync
+                0x0000000000002a4c       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x0000000000002a4c                s3eEdkThreadRunOnOSAsync
+ .text          0x0000000000002a7c       0x44 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                0x0000000000002a7c                __aeabi_ldivmod
+ .text          0x0000000000002ac0       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                0x0000000000002ac0                __aeabi_ldiv0
+                0x0000000000002ac0                __aeabi_idiv0
+ .text          0x0000000000002ad0       0x78 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                0x0000000000002ad0                __gnu_ldivmod_helper
+                0x0000000000002b0c                __gnu_uldivmod_helper
+ .text          0x0000000000002b48      0xeec /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                0x0000000000002f80                _Unwind_GetCFA
+                0x0000000000002f88                __gnu_Unwind_RaiseException
+                0x000000000000302c                __gnu_Unwind_ForcedUnwind
+                0x0000000000003048                __gnu_Unwind_Resume
+                0x00000000000030bc                __gnu_Unwind_Resume_or_Rethrow
+                0x00000000000030dc                _Unwind_Complete
+                0x00000000000030e0                _Unwind_DeleteException
+                0x0000000000003100                _Unwind_VRS_Get
+                0x0000000000003184                _Unwind_VRS_Set
+                0x000000000000320c                __gnu_Unwind_Backtrace
+                0x00000000000036c4                __aeabi_unwind_cpp_pr0
+                0x00000000000036cc                __aeabi_unwind_cpp_pr1
+                0x00000000000036d4                __aeabi_unwind_cpp_pr2
+                0x00000000000036dc                _Unwind_VRS_Pop
+ .text          0x0000000000003a34      0x1a8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+                0x0000000000003a34                __restore_core_regs
+                0x0000000000003a34                restore_core_regs
+                0x0000000000003a48                __gnu_Unwind_Restore_VFP
+                0x0000000000003a50                __gnu_Unwind_Save_VFP
+                0x0000000000003a58                __gnu_Unwind_Restore_VFP_D
+                0x0000000000003a60                __gnu_Unwind_Save_VFP_D
+                0x0000000000003a68                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0000000000003a70                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000000000003a78                __gnu_Unwind_Restore_WMMXD
+                0x0000000000003abc                __gnu_Unwind_Save_WMMXD
+                0x0000000000003b00                __gnu_Unwind_Restore_WMMXC
+                0x0000000000003b14                __gnu_Unwind_Save_WMMXC
+                0x0000000000003b28                _Unwind_RaiseException
+                0x0000000000003b28                ___Unwind_RaiseException
+                0x0000000000003b4c                ___Unwind_Resume
+                0x0000000000003b4c                _Unwind_Resume
+                0x0000000000003b70                ___Unwind_Resume_or_Rethrow
+                0x0000000000003b70                _Unwind_Resume_or_Rethrow
+                0x0000000000003b94                _Unwind_ForcedUnwind
+                0x0000000000003b94                ___Unwind_ForcedUnwind
+                0x0000000000003bb8                _Unwind_Backtrace
+                0x0000000000003bb8                ___Unwind_Backtrace
+ .text          0x0000000000003bdc      0x484 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+                0x0000000000003c68                __gnu_unwind_execute
+                0x0000000000003fe4                __gnu_unwind_frame
+                0x0000000000004024                _Unwind_GetRegionStart
+                0x0000000000004034                _Unwind_GetLanguageSpecificData
+                0x0000000000004050                _Unwind_GetDataRelBase
+                0x0000000000004058                _Unwind_GetTextRelBase
+ .text          0x0000000000004060      0x498 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                0x0000000000004060                __divdi3
+ .text          0x00000000000044f8      0x404 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                0x00000000000044f8                __udivdi3
+ .text          0x00000000000048fc       0xc8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                0x00000000000048fc                __udivsi3
+                0x00000000000048fc                __aeabi_uidiv
+                0x00000000000049a4                __aeabi_uidivmod
+ .text          0x00000000000049c4        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.fini
+ *(SORT(.fini))
+                0x00000000000049c4                PROVIDE (__etext, .)
+                0x00000000000049c4                PROVIDE (_etext, .)
+                0x00000000000049c4                PROVIDE (etext, .)
+
+.rodata         0x00000000000049c4      0x228
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00000000000049c4       0xb0 debug/peanutlabs_platform.os
+ .rodata        0x0000000000004a74       0x5c debug/peanutlabs_register.os
+ .rodata.str1.4
+                0x0000000000004ad0      0x11c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                                        0x120 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000000000004bec       0x48
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000004bec        0xc /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .ARM.extab     0x0000000000004bf8        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .ARM.extab     0x0000000000004bf8        0xc /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000004c04       0x30 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .ARM.extab     0x0000000000004c34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000004c34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                0x0000000000004c34                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000000000004c34      0x128
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000004c34        0x8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .ARM.exidx     0x0000000000004c3c        0x8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x0000000000004c44       0xb8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x0000000000004cfc       0x48 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .ARM.exidx     0x0000000000004d44        0x8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000000004d4c       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+                0x0000000000004d5c                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x0000000000004d5c        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000008000                . = ALIGN (0x8000)
+                0x0000000000008e4c                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x0000000000008e4c                . = ALIGN (0x4)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000008e4c        0x8
+ *crtbegin*.o(.init_array)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000008e4c        0x4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .init_array    0x0000000000008e50        0x4 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.fini_array     0x0000000000008e54        0x8
+ *crtbegin*.o(.fini_array)
+ .fini_array    0x0000000000008e54        0x4 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000008e58        0x4 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000008e5c       0xf8
+ *(.dynamic)
+ .dynamic       0x0000000000008e5c       0xf8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000008e5c                _DYNAMIC
+
+.got            0x0000000000008f54       0xac
+ *(.got.plt)
+ .got.plt       0x0000000000008f54       0x84 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000008f54                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.got)
+ .got           0x0000000000008fd8       0x28 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.igot)
+                0x0000000000009000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.data           0x0000000000009000        0x4
+                0x0000000000009000                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000009000        0x4 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000009000                __dso_handle
+ .data          0x0000000000009004        0x0 debug/peanutlabs_platform.os
+ .data          0x0000000000009004        0x0 debug/peanutlabs.os
+ .data          0x0000000000009004        0x0 debug/peanutlabs_register.os
+ .data          0x0000000000009004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .data          0x0000000000009004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .data          0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.data1
+ *(.data1)
+                0x0000000000009004                _edata = .
+                0x0000000000009004                PROVIDE (edata, .)
+                0x0000000000009004                . = .
+                0x0000000000009004                __bss_start = .
+                0x0000000000009004                __bss_start__ = .
+
+.bss            0x0000000000009004     0x1a30
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000009004        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x0000000000009004        0x8 debug/peanutlabs_platform.os
+ .bss           0x000000000000900c        0x0 debug/peanutlabs.os
+ .bss           0x000000000000900c        0x0 debug/peanutlabs_register.os
+ .bss           0x000000000000900c     0x1a28 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x000000000000900c                g_DebugGlobals
+ .bss           0x000000000000aa34        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .bss           0x000000000000aa34        0x0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(COMMON)
+                0x000000000000aa34                . = ALIGN (0x4)
+                0x000000000000aa34                _bss_end__ = .
+                0x000000000000aa34                __bss_end__ = .
+                0x000000000000aa34                . = ALIGN (0x4)
+                0x000000000000aa34                . = SEGMENT_START ("ldata-segment", .)
+                0x000000000000aa34                . = ALIGN (0x4)
+                0x000000000000aa34                __end__ = .
+                0x000000000000aa34                _end = .
+                0x000000000000aa34                _bss_end__ = .
+                0x000000000000aa34                __bss_end__ = .
+                0x000000000000aa34                __end__ = .
+                0x000000000000aa34                PROVIDE (end, .)
+                0x000000000000aa34                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000       0x25 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                                         0x26 (size before relaxing)
+ .comment       0x0000000000000025        0xf debug/peanutlabs_platform.os
+                                         0x10 (size before relaxing)
+ .comment       0x0000000000000000       0x10 debug/peanutlabs.os
+ .comment       0x0000000000000000       0x10 debug/peanutlabs_register.os
+ .comment       0x0000000000000000       0x10 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .comment       0x0000000000000000       0x10 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .comment       0x0000000000000000       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .comment       0x0000000000000000       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .comment       0x0000000000000000       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .comment       0x0000000000000000       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000000       0x10 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x2d /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .ARM.attributes
+                0x000000000000002d       0x2f debug/peanutlabs_platform.os
+ .ARM.attributes
+                0x000000000000005c       0x2f debug/peanutlabs.os
+ .ARM.attributes
+                0x000000000000008b       0x2f debug/peanutlabs_register.os
+ .ARM.attributes
+                0x00000000000000ba       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .ARM.attributes
+                0x00000000000000e9       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .ARM.attributes
+                0x0000000000000118       0x1f /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000137       0x1f /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x0000000000000156       0x2b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000000000000181       0x2b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000000000001ac       0x1f /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x00000000000001cb       0x2b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x00000000000001f6       0x2b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000000000000221       0x2b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000000000000024c       0x1f /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000000026b       0x1f /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x80 debug/peanutlabs_platform.os
+ .debug_aranges
+                0x0000000000000080       0x20 debug/peanutlabs.os
+ .debug_aranges
+                0x00000000000000a0       0x20 debug/peanutlabs_register.os
+ .debug_aranges
+                0x00000000000000c0       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x8f27
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x58fe debug/peanutlabs_platform.os
+ .debug_info    0x00000000000058fe       0xf6 debug/peanutlabs.os
+ .debug_info    0x00000000000059f4      0x168 debug/peanutlabs_register.os
+ .debug_info    0x0000000000005b5c       0xba /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0000000000005c16       0xbe /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x0000000000005cd4      0x160 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_info    0x0000000000005e34     0x1b3d /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_info    0x0000000000007971       0xbe /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .debug_info    0x0000000000007a2f      0x8af /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_info    0x00000000000082de      0x5e6 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_info    0x00000000000088c4      0x5a5 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000008e69       0xbe /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+
+.debug_abbrev   0x0000000000000000      0xeea
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x29f debug/peanutlabs_platform.os
+ .debug_abbrev  0x000000000000029f       0xb8 debug/peanutlabs.os
+ .debug_abbrev  0x0000000000000357       0xfb debug/peanutlabs_register.os
+ .debug_abbrev  0x0000000000000452       0x14 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x0000000000000466       0x14 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x000000000000047a       0xb5 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_abbrev  0x000000000000052f      0x41c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_abbrev  0x000000000000094b       0x14 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .debug_abbrev  0x000000000000095f      0x275 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_abbrev  0x0000000000000bd4      0x190 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x0000000000000d64      0x172 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000ed6       0x14 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+
+.debug_line     0x0000000000000000     0x1037
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x304 debug/peanutlabs_platform.os
+ .debug_line    0x0000000000000304       0xc3 debug/peanutlabs.os
+ .debug_line    0x00000000000003c7      0x116 debug/peanutlabs_register.os
+ .debug_line    0x00000000000004dd       0x7b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000558       0x7e /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x00000000000005d6       0x7c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_line    0x0000000000000652      0x4ad /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_line    0x0000000000000aff       0xc6 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .debug_line    0x0000000000000bc5      0x184 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_line    0x0000000000000d49      0x132 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_line    0x0000000000000e7b      0x120 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000f9b       0x9c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+
+.debug_frame    0x0000000000000000      0x70c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x1d0 debug/peanutlabs_platform.os
+ .debug_frame   0x00000000000001d0       0x58 debug/peanutlabs.os
+ .debug_frame   0x0000000000000228       0x5c debug/peanutlabs_register.os
+ .debug_frame   0x0000000000000284       0x50 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_frame   0x00000000000002d4      0x2a8 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_frame   0x000000000000057c       0xfc /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000678       0x38 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_frame   0x00000000000006b0       0x3c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000000000006ec       0x20 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+
+.debug_str      0x0000000000000000     0x58a2
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x48ef debug/peanutlabs_platform.os
+                                       0x4a79 (size before relaxing)
+ .debug_str     0x00000000000048ef       0xa3 debug/peanutlabs.os
+                                        0x287 (size before relaxing)
+ .debug_str     0x0000000000004992       0xb6 debug/peanutlabs_register.os
+                                        0x312 (size before relaxing)
+ .debug_str     0x0000000000004a48      0x15b /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                                        0x180 (size before relaxing)
+ .debug_str     0x0000000000004ba3      0xb60 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                                        0xc75 (size before relaxing)
+ .debug_str     0x0000000000005703       0xf1 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+                                        0x57c (size before relaxing)
+ .debug_str     0x00000000000057f4       0xae /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                                        0x2a0 (size before relaxing)
+ .debug_str     0x0000000000000000      0x2a1 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+
+.debug_loc      0x0000000000000000     0x2f57
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xa0 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0     0x1476 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_loc     0x0000000000001516      0x53c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_loc     0x0000000000001a52      0xad9 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_loc     0x000000000000252b      0xa2c /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x1e0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x70 debug/peanutlabs_platform.os
+ .debug_ranges  0x0000000000000070       0x70 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .debug_ranges  0x00000000000000e0       0x30 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .debug_ranges  0x0000000000000110       0x60 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000000000000170       0x70 /Users/bilguunoyunchimeg/Downloads/android-ndk-r10d/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.mdebug.*)
+OUTPUT(/Users/bilguunoyunchimeg/Dev/MarmaladeSDK/peanutlabs/lib/android/libpeanutlabs_d.so elf32-littlearm)

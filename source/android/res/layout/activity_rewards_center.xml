@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.peanutlabs.plsdk.RewardsCenterActivity" >
+   
+    <RelativeLayout 
+        android:id="@+id/rlHeader"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:background="#555555">
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Peanut Labs"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"/>
+        
+        <Button
+            android:id="@+id/pl_txtbtnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="20dip"
+            android:textColor="#ffffff"
+            android:text="@string/txt_Exit"
+            android:textSize="14sp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:layout_alignParentRight="true"
+            android:background="@null"/>        
+        
+        
+        <ImageButton 
+            android:visibility="gone"
+            android:id="@+id/pl_btnBack"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_action_previous_item"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:background="@null"/>  
+            
+        <ImageButton
+            android:visibility="gone"
+            android:id="@+id/pl_btnForward"  
+            android:layout_toRightOf="@+id/pl_btnBack"          
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_action_next_item"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="18dip"
+            android:background="@null"/>
+        
+        <Button
+            android:visibility="gone"
+            android:id="@+id/pl_btnAccept"  
+            android:layout_alignParentRight="true"          
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:text="@string/txt_Home"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dip"
+            android:background="@null"/>               
+        
+    </RelativeLayout>
+
+  <FrameLayout android:id="@+id/webViewPlaceholder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/rlHeader"/>
+    
+   	<RelativeLayout 
+   	    android:visibility="visible"
+   	    android:id="@+id/pl_ProgressView"
+   	    android:layout_width="match_parent"
+   	    android:layout_height="match_parent"
+   	    android:clickable="true"
+   	    android:background="#b0555555">    
+    
+		<ProgressBar
+		    android:id="@+id/pl_ProgressBar"
+			android:layout_centerInParent="true"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />    
+	</RelativeLayout>       
+
+
+</RelativeLayout>

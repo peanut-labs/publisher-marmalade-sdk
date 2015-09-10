@@ -43,3 +43,16 @@ You will need to add the following to your applications plist file in order for 
         <true/>
     </dict>
 ```
+#Android
+
+* Run peanutlabs_android.mkb and then peanutlabs_android_java.mkb to build android extensions
+
+You will need to add the following activity to your Manifest.xml file in order to run android application with rewards center.
+
+```
+<activity
+	android:name="com.peanutlabs.plsdk.RewardsCenterActivity"
+	android:configChanges="keyboard|keyboardHidden|screenSize|orientation"
+	android:label="@string/title_activity_rewards_center" >
+</activity>
+```
